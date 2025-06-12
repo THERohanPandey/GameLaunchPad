@@ -8,7 +8,7 @@ This is a simple UI prototype I created for practice and to develop my personal 
 
 - **Home Page**
 - **About Page**
-- **Dashboard**
+- **Statistics**
 - **Success Page**
 
 ## 📌 Why I Made This
